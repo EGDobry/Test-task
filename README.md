@@ -6,4 +6,4 @@
 - Каждый получений баг внести в таблицу
 
 ## Выполнение
-- [Чек-лист + Баг-репорт](https://docs.google.com/spreadsheets/d/1dR1XogR2z563lEdgiytYLMtUQFuNb-IHoyE4gLCnyCI/edit?usp=sharing)
+- [Чек-лист + Баг-репорт + Дополнительно](https://docs.google.com/spreadsheets/d/1dR1XogR2z563lEdgiytYLMtUQFuNb-IHoyE4gLCnyCI/edit?usp=sharing)
